@@ -7,7 +7,7 @@ Created on Wed Jun 17 17:26:03 2020
 
 from pylab import *
 
-"""Variáveis e arrays necessários"""
+""" Necessary variables and arrays"""
 
 n = 2000
 x = zeros(n, float)
