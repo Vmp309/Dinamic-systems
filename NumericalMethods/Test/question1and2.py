@@ -2,7 +2,7 @@
 """
 Created on Sat Jun 27 12:48:43 2020
 
-@author: vick_
+@author: Victoria Monteiro
 """
 
 
